@@ -1,0 +1,43 @@
+[
+    {
+        "faculty": "engineering",
+        "steps": [
+            "submit high school transcripts",
+            "complete online application form",
+            "pay application fee",
+            "take entrance exam",
+            "attend orientation"
+        ]
+    },
+    {
+        "faculty": "business",
+        "steps": [
+            "submit high school transcripts",
+            "write personal statement",
+            "obtain two recommendation letters",
+            "complete online application form",
+            "pay application fee"
+        ]
+    },
+    {
+        "faculty": "medicine",
+        "steps": [
+            "submit undergraduate transcripts",
+            "take mcat exam",
+            "submit letters of recommendation",
+            "complete application through amcas",
+            "attend interviews"
+        ]
+    },
+    {
+        "faculty": "law",
+        "steps": [
+            "take lsat exam",
+            "register with lsac",
+            "submit undergraduate transcripts",
+            "obtain letters of recommendation",
+            "write personal statement",
+            "complete application through lsac"
+        ]
+    }
+]
