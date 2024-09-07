@@ -1,5 +1,5 @@
 const RegStep = require("../models/regStepModel.js");
-const data = require("./testData.json");
+const data = require("../testData.json");
 
 const insertData = async function() {
   try {
