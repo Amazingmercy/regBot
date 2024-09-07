@@ -1,43 +1,44 @@
 [
     {
-        "faculty": "engineering",
+        "faculty": "computing",
         "steps": [
-            "submit high school transcripts",
-            "complete online application form",
-            "pay application fee",
-            "take entrance exam",
-            "attend orientation"
+            "Go to your Faculty office and submit all your credentials for clearance, credentails includes: 1. JAMB and WAEC original result2. Admission letter 3. clearance certifciacte from school",
+            "Pay you school fees on the portal",
+            "Pay all other dues",
+            "Visit your level adviser from your department to advise you on courses to select",
+            "complelete your course Registration",
+            "Print All reciepts and course form from portal",
+            "Pay Faculty and Departmental Dues at student Organization office",
+            "Visit your faculty office, submit all printed reciepts and course form",
+            "Visit your departmental office and submit all printed reciepts and course form",
+            "Visit school building to pay for your Triabl and religious dues",
+            "Submit a copy of your fees, dearmental fee and course form at Senate building",
+            "Visit student affairs with all printed reciepts and course form",
+            "Proceed to the school clinic to registration",
+            "Proceed to the school Library for registration",
+            "Proceed to ICT Center for your ID card capturing"
         ]
     },
     {
-        "faculty": "business",
+        "faculty": "science",
         "steps": [
-            "submit high school transcripts",
-            "write personal statement",
-            "obtain two recommendation letters",
-            "complete online application form",
-            "pay application fee"
-        ]
-    },
-    {
-        "faculty": "medicine",
-        "steps": [
-            "submit undergraduate transcripts",
-            "take mcat exam",
-            "submit letters of recommendation",
-            "complete application through amcas",
-            "attend interviews"
-        ]
-    },
-    {
-        "faculty": "law",
-        "steps": [
-            "take lsat exam",
-            "register with lsac",
-            "submit undergraduate transcripts",
-            "obtain letters of recommendation",
-            "write personal statement",
-            "complete application through lsac"
+            "Go to your Faculty office and submit all your credentials for clearance, credentails includes: 1. JAMB and WAEC original result2. Admission letter 3. clearance certifciacte from school",
+            "Pay you school fees on the portal",
+            "Pay all other dues",
+            "Visit your level adviser from your department to advise you on courses to select",
+            "complelete your course Registration",
+            "Print All reciepts and course form from portal",
+            "Pay Faculty and Departmental Dues at student Organization office",
+            "Visit Faculty office to purchase Labcoat and Faculty Jotter",
+            "Visit the your faculty office, submit all printed reciepts and course form",
+            "Visist the Head of your departement to sign your course form",
+            "Visit your departmental office and submit all printed reciepts and course form",
+            "Visit school building to pay for your Triabl and religious dues",
+            "Submit a copy of your fees, dearmental fee and course form at Senate building",
+            "Visit student affairs with all printed reciepts and course form",
+            "Proceed to the school clinic to registration",
+            "Proceed to the school Library for registration",
+            "Proceed to ICT Center for your ID card capturing"
         ]
     }
 ]
