@@ -3,7 +3,7 @@ const express = require('express')
 const connectDB = require('./DB/config')
 const DB_URI = process.env.MONGO_URI
 const WhatsappMessages = require('./routers/whatsappRoutes')
-const insertData = require('./services/insertTestData')
+const {insertData} = require('./services/insertTestData')
 
 
 const app = express();
