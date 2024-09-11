@@ -2,7 +2,7 @@ const { handleFacultySelection, handleNextStep, handleEndCoversation, handleGree
 const setupNlp = require('../nlp')
 
 
-const verifyWebhook = async () => {
+const verifyWebhook = async (req, res) => {
   const VERIFY_TOKEN = process.env.VERIFY_TOKEN
 
   console.log('Query object:', req.query);
