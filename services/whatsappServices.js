@@ -78,6 +78,7 @@ const handleFacultySelection = async (res, sender, response, userState, userFacu
 const handleNextStep = async (res, sender, response, userState) => {
     // Fetch the registration steps for the user's faculty
     const registrationSteps = await RegStep.findOne({ faculty: userState.userFaculty });
+    console.log(registrationSteps)
     
     // Increment the current step directly in the database
     await UserState.updateOne(
